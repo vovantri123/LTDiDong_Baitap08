@@ -1,4 +1,4 @@
-package vn.iotstar.ltdidong_baitap08;
+package vn.iotstar.ltdidong_baitap08.SearchRecyclerView;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

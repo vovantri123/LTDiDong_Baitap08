@@ -1,4 +1,4 @@
-package vn.iotstar.ltdidong_baitap08;
+package vn.iotstar.ltdidong_baitap08.SearchRecyclerView;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -14,7 +14,6 @@ import com.bumptech.glide.Glide;
 
 import java.util.List;
 
-import vn.iotstar.ltdidong_baitap08.IconModel;
 import vn.iotstar.ltdidong_baitap08.R;
 
 public class IconAdapter extends RecyclerView.Adapter<IconAdapter.IconHolder> {

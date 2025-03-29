@@ -1,10 +1,12 @@
-package vn.iotstar.ltdidong_baitap08;
+package vn.iotstar.ltdidong_baitap08.Fragment;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
+
+import vn.iotstar.ltdidong_baitap08.SearchRecyclerView.NewOrderFragment;
 
 public class ViewPager2Adapter extends FragmentStateAdapter {
 

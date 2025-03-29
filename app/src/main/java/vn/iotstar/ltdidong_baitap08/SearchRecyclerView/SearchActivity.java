@@ -1,4 +1,4 @@
-package vn.iotstar.ltdidong_baitap08;
+package vn.iotstar.ltdidong_baitap08.SearchRecyclerView;
 
 import android.os.Bundle;
 
@@ -9,16 +9,10 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.List;
 
-import vn.iotstar.ltdidong_baitap08.databinding.ActivityFragmentBinding;
+import vn.iotstar.ltdidong_baitap08.R;
 
-import android.os.Bundle;
 import androidx.appcompat.widget.SearchView; // Import đúng thư viện!
 import android.widget.Toast;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-import java.util.ArrayList;
-import java.util.List;
 
 public class SearchActivity extends AppCompatActivity {
 

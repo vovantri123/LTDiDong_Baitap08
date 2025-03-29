@@ -1,4 +1,4 @@
-package vn.iotstar.ltdidong_baitap08;
+package vn.iotstar.ltdidong_baitap08.Fragment;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
+import vn.iotstar.ltdidong_baitap08.R;
 import vn.iotstar.ltdidong_baitap08.databinding.ActivityFragmentBinding;
 import androidx.fragment.app.FragmentManager;
 import androidx.viewpager2.widget.ViewPager2;
