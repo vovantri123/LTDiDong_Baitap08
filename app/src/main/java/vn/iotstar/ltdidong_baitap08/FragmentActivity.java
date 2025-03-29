@@ -73,6 +73,8 @@ public class FragmentActivity extends AppCompatActivity {
                 binding.tabLayout.selectTab(binding.tabLayout.getTabAt(position));
             }
         });
+
+
     }
 
     private void changeFabIcon(final int index) {
