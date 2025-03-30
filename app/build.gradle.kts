@@ -51,7 +51,8 @@ dependencies {
 
     implementation("me.relex:circleindicator:2.1.6")
 
-    implementation("com.github.smarteist:autoimageslider:1.4.0")
+    implementation ("com.github.smarteist:Android-Image-Slider:1.4.0")
+
 
 
 }
